@@ -8,6 +8,7 @@ Perl Testing 101
 Description
 -----------
 
-* to see the presentation slides open `slide001.html` in a web browser
-* `alpha` - a sample Perl module with tests
-* `identifier` - a sample Perl modules without tests (the exercise is to add tests)
+* `slide001.html` - to see the presentation slides open this in a web browser             
+* `alpha`         - a sample Perl module with tests
+* `identifier`    - a sample Perl module without tests (the exercise is to add tests)
+* `t`             - sample tests using `Test::Simple` and `Test::More` modules (explained in presentation)
