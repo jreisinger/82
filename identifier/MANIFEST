@@ -1,0 +1,7 @@
+lib/Identifier.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml
+README

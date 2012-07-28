@@ -1,0 +1,48 @@
+/* $Id: perlsemny200810.css 1130 2007-02-25 18:21:28Z jimk $ */
+
+BODY, P, TABLE {
+    font-size: 18px; font-family: verdana,helvetica,sans-serif;
+}
+
+h1 {  font-size: 28px; font-family: verdana,helvetica,sans-serif; }
+h2 {  font-size: 24px; font-family: verdana,helvetica,sans-serif; }
+h3 {  font-size: 22px; font-family: verdana,helvetica,sans-serif; }
+h4 {  font-size: 20px; font-family: verdana,helvetica,sans-serif; }
+
+.code,p.code {
+    color: blue;
+    font-family: courier,courier-new,fixed;
+}
+
+toc { font-size: +0 }
+
+.screen  {
+    font-family: courier;
+    font-style: bold;
+}
+
+div.screen,.screen P
+{ 
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    font-family: courier;
+    font-style: bold;
+    color: white;
+}
+
+div.quote { 
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #f1f1f1;
+    font-style: italic;
+    text-align: center;
+}
+
+div.caption { 
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+}

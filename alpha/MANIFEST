@@ -1,0 +1,14 @@
+Changes
+lib/Alpha.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README
+t/all_methods.t
+t/by_method/01_new.t
+t/by_method/02_new_no_name.t
+t/by_method/03_get_name.t
+t/by_method/04_get_string.t
+t/by_method/05_is_valid_plang.t
+t/by_method/06_new_no_string.t
+Todo
